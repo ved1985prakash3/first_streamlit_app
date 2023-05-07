@@ -1,4 +1,4 @@
 import streamlit
 streamlit.title("My Parents New Healthy Dinner")
-Print(" ")
+print(" ")
 streamlit.title("BreakFast Menu")
