@@ -2,12 +2,12 @@ import streamlit
 import pandas
 
 streamlit.title("My Parents New Healthy Dinner")
-print(" ") 
-streamlit.header("BreakFast Menu")
+streamlit.write("")
+streamlit.header("Breakfast Menu")
 streamlit.text("🥣 Omega 3 & Blue Berry Oat meal")
 streamlit.text("🥗 Kale, Spinach & Rocket Smoothie")
 streamlit.text("🐔 Hard Boiled free Range Egg")
-streamlit.text("🥑🍞 Avacado Toast")
+streamlit.text("🥑🍞 Avocado Toast")
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
